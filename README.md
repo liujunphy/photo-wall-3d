@@ -1,3 +1,6 @@
+<details open>
+<summary><b>🇨🇳 中文</b></summary>
+
 # 3D Card Wall
 
 基于 Three.js 的 3D 卡片交互墙，纯静态 HTML/CSS/JS，零框架依赖。
@@ -69,9 +72,12 @@ photo-wall-3d/
 - **Canvas API** — 动态生成卡片纹理，无需外部图片
 - **原生 JS** — 无框架依赖
 
----
+</details>
 
-# English
+<details>
+<summary><b>🇺🇸 English</b></summary>
+
+# 3D Card Wall
 
 A 3D interactive card wall built with Three.js. Pure static HTML/CSS/JS, zero framework dependencies.
 
@@ -142,3 +148,5 @@ Set `presetSpeed` to `0` to disable auto-rotation.
 - **Three.js 0.157** — CDN, zero install
 - **Canvas API** — Dynamic card texture generation
 - **Vanilla JS** — No framework
+
+</details>
